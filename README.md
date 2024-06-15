@@ -18,11 +18,12 @@ The Nutritional Advisor Chatbot is an interactive, AI-powered tool designed to p
 <br>Prerequisites:
 
     Python 3.6 or higher
-    OpenAI API key
+    OpenAI API Key
 
 <strong>Usage</strong>
 <br>Run the chatbot:
 
+    Have your OpenAI API Key as a system environment variable called OPENAI_API_KEY
     Dist/nutribot.exe
 
 Follow the on-screen prompts to input your information and receive personalized nutritional advice or ask questions.
