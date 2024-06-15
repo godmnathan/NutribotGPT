@@ -1,0 +1,483 @@
+('C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+ 'ChatBot\\build\\nutribot\\nutribot.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\build\\nutribot\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\build\\nutribot\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\build\\nutribot\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\build\\nutribot\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\build\\nutribot\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\build\\nutribot\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('nutribot',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher ChatBot\\nutribot.py',
+   'PYSOURCE'),
+  ('python39.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\python39.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\charset_normalizer\\md__mypyc.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\charset_normalizer\\md.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('pydantic_core\\_pydantic_core.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\pydantic_core\\_pydantic_core.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('yarl\\_quoting_c.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\yarl\\_quoting_c.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('multidict\\_multidict.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\multidict\\_multidict.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_http_writer.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\aiohttp\\_http_writer.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_http_parser.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\aiohttp\\_http_parser.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('frozenlist\\_frozenlist.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\frozenlist\\_frozenlist.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_helpers.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\aiohttp\\_helpers.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_websocket.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\aiohttp\\_websocket.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\random\\mtrand.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\random\\_sfc64.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\random\\_philox.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\random\\_pcg64.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\random\\_mt19937.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\random\\bit_generator.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\random\\_generator.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\random\\_common.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\util.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\sqlalchemy\\cyextension\\util.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\resultproxy.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\sqlalchemy\\cyextension\\resultproxy.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\processors.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\sqlalchemy\\cyextension\\processors.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\immutabledict.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\sqlalchemy\\cyextension\\immutabledict.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\collections.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\sqlalchemy\\cyextension\\collections.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('greenlet\\_greenlet.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\greenlet\\_greenlet.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('regex\\_regex.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\regex\\_regex.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_zoneinfo.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_zoneinfo.pyd',
+   'EXTENSION'),
+  ('orjson\\orjson.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\orjson\\orjson.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('yaml\\_yaml.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\yaml\\_yaml.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('tiktoken\\_tiktoken.cp39-win_amd64.pyd',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\tiktoken\\_tiktoken.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('numpy.libs\\libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\numpy.libs\\libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\build\\nutribot\\base_library.zip',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('importlib_metadata-7.1.0.dist-info\\RECORD',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\importlib_metadata-7.1.0.dist-info\\RECORD',
+   'DATA'),
+  ('importlib_metadata-7.1.0.dist-info\\top_level.txt',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\importlib_metadata-7.1.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('importlib_metadata-7.1.0.dist-info\\INSTALLER',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\importlib_metadata-7.1.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('importlib_metadata-7.1.0.dist-info\\LICENSE',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\importlib_metadata-7.1.0.dist-info\\LICENSE',
+   'DATA'),
+  ('importlib_metadata-7.1.0.dist-info\\WHEEL',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\importlib_metadata-7.1.0.dist-info\\WHEEL',
+   'DATA'),
+  ('importlib_metadata-7.1.0.dist-info\\METADATA',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\importlib_metadata-7.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('langchain\\llms\\grammars\\json.gbnf',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain\\llms\\grammars\\json.gbnf',
+   'DATA'),
+  ('langchain\\llms\\grammars\\list.gbnf',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain\\llms\\grammars\\list.gbnf',
+   'DATA'),
+  ('langchain\\py.typed',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain\\py.typed',
+   'DATA'),
+  ('langchain\\document_transformers\\xsl\\html_chunks_with_headers.xslt',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain\\document_transformers\\xsl\\html_chunks_with_headers.xslt',
+   'DATA'),
+  ('langchain\\chains\\llm_summarization_checker\\prompts\\revise_summary.txt',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain\\chains\\llm_summarization_checker\\prompts\\revise_summary.txt',
+   'DATA'),
+  ('langchain\\chains\\llm_summarization_checker\\prompts\\are_all_true_prompt.txt',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain\\chains\\llm_summarization_checker\\prompts\\are_all_true_prompt.txt',
+   'DATA'),
+  ('langchain\\chains\\llm_summarization_checker\\prompts\\check_facts.txt',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain\\chains\\llm_summarization_checker\\prompts\\check_facts.txt',
+   'DATA'),
+  ('langchain\\chains\\llm_summarization_checker\\prompts\\create_facts.txt',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain\\chains\\llm_summarization_checker\\prompts\\create_facts.txt',
+   'DATA'),
+  ('openai-1.34.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\openai-1.34.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('openai-1.34.0.dist-info\\RECORD',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\openai-1.34.0.dist-info\\RECORD',
+   'DATA'),
+  ('langchain-0.2.5.dist-info\\METADATA',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain-0.2.5.dist-info\\METADATA',
+   'DATA'),
+  ('langchain-0.2.5.dist-info\\WHEEL',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain-0.2.5.dist-info\\WHEEL',
+   'DATA'),
+  ('langchain-0.2.5.dist-info\\INSTALLER',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain-0.2.5.dist-info\\INSTALLER',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\METADATA',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\attrs-23.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('langchain-0.2.5.dist-info\\RECORD',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain-0.2.5.dist-info\\RECORD',
+   'DATA'),
+  ('urllib3-2.2.1.dist-info\\RECORD',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\urllib3-2.2.1.dist-info\\RECORD',
+   'DATA'),
+  ('urllib3-2.2.1.dist-info\\WHEEL',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\urllib3-2.2.1.dist-info\\WHEEL',
+   'DATA'),
+  ('openai-1.34.0.dist-info\\WHEEL',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\openai-1.34.0.dist-info\\WHEEL',
+   'DATA'),
+  ('openai-1.34.0.dist-info\\INSTALLER',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\openai-1.34.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\attrs-23.2.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('urllib3-2.2.1.dist-info\\INSTALLER',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\urllib3-2.2.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\RECORD',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\attrs-23.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('pydantic-2.7.4.dist-info\\INSTALLER',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\pydantic-2.7.4.dist-info\\INSTALLER',
+   'DATA'),
+  ('langchain-0.2.5.dist-info\\LICENSE',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain-0.2.5.dist-info\\LICENSE',
+   'DATA'),
+  ('langchain-0.2.5.dist-info\\REQUESTED',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain-0.2.5.dist-info\\REQUESTED',
+   'DATA'),
+  ('openai-1.34.0.dist-info\\REQUESTED',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\openai-1.34.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('pydantic-2.7.4.dist-info\\RECORD',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\pydantic-2.7.4.dist-info\\RECORD',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\WHEEL',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\attrs-23.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('openai-1.34.0.dist-info\\entry_points.txt',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\openai-1.34.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('attrs-23.2.0.dist-info\\INSTALLER',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\attrs-23.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('openai-1.34.0.dist-info\\METADATA',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\openai-1.34.0.dist-info\\METADATA',
+   'DATA'),
+  ('urllib3-2.2.1.dist-info\\METADATA',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\urllib3-2.2.1.dist-info\\METADATA',
+   'DATA'),
+  ('pydantic-2.7.4.dist-info\\WHEEL',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\pydantic-2.7.4.dist-info\\WHEEL',
+   'DATA'),
+  ('urllib3-2.2.1.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\urllib3-2.2.1.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('pydantic-2.7.4.dist-info\\METADATA',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\pydantic-2.7.4.dist-info\\METADATA',
+   'DATA'),
+  ('pydantic-2.7.4.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\pydantic-2.7.4.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('langchain-0.2.5.dist-info\\entry_points.txt',
+   'C:\\Users\\godmn\\Desktop\\Projects\\1 - Math Teacher '
+   'ChatBot\\.venv\\lib\\site-packages\\langchain-0.2.5.dist-info\\entry_points.txt',
+   'DATA')],
+ 'python39.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
