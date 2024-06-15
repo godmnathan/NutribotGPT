@@ -108,7 +108,7 @@ def run_chatbot():
         print("\nWelcome to the Nutritional Advisor Chatbot!")
         print("Please choose an option:")
         print("1. Generate Nutritional Advice")
-        print("2. Ask a Nutritional Question")
+        print("2. Ask a Question About Nutrition")
         print("3. Quit")
 
         choice = input("Enter your choice (1, 2, or 3): ").strip()
