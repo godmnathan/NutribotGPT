@@ -2,19 +2,26 @@ import os
 from langchain.prompts import PromptTemplate
 from langchain_openai import OpenAI
 
+# Load API key from environment variable for security
+api_key = os.getenv('OPENAI_API_KEY')
+if not api_key:
+    raise ValueError("API key for OpenAI is not set. Please set the 'OPENAI_API_KEY' environment variable.")
+
 # Initialize the conversational model (e.g., GPT-3 from OpenAI)
-llm = OpenAI(api_key='sk-proj-fTWrNUYu2qQqHqdQdcU0T3BlbkFJt32sq2m28IkSFjvhNK1v')
+llm = OpenAI(api_key=api_key)
 
 
 def clear_screen():
-    # Check if Operating System is Windows or macOS/Linux
+    # Try to clear the screen using system commands
     if os.name == 'nt':
         os.system('cls')
     else:
         os.system('clear')
 
+
 def collect_user_info():
     user_info = {}
+
     while True:
         try:
             user_info['age'] = int(input("Please enter your age: "))
@@ -35,7 +42,7 @@ def collect_user_info():
                 raise ValueError("Weight must be less than 600kg.")
             break
         except ValueError as e:
-            print(e)
+            print(f"An error occurred while fetching the response: {e}")
 
     while True:
         try:
@@ -46,7 +53,7 @@ def collect_user_info():
                 raise ValueError("Height must be less than 300cm.")
             break
         except ValueError as e:
-            print(e)
+            print(f"An error occurred while fetching the response: {e}")
 
     user_info['activity_level'] = input(
         "Please describe your activity level (e.g., sedentary, active): ").strip().lower()
@@ -56,33 +63,43 @@ def collect_user_info():
 
 
 def generate_nutritional_advice(user_info):
-    prompt = PromptTemplate.from_template("""
-    Given the following user information:
-    Age: {age}
-    Gender: {gender}
-    Weight: {weight} kg
-    Height: {height} cm
-    Activity level: {activity_level}
-    Dietary preferences: {dietary_preferences}
-    Allergies: {allergies}
+    clear_screen()
 
-    Provide a comprehensive nutritional advice including meal suggestions, snack options, hydration tips and advised 
-    daily intake of calories, proteins, fats and carbohydrates. Consider the user's activity level and preferences.
+    prompt = PromptTemplate.from_template("""
+        Given the following user information:
+        Age: {age}
+        Gender: {gender}
+        Weight: {weight} kg
+        Height: {height} cm
+        Activity level: {activity_level}
+        Dietary preferences: {dietary_preferences}
+        Allergies: {allergies}
+
+        Provide a comprehensive nutritional advice including meal suggestions, snack options, hydration tips and advised 
+        daily intake of calories, proteins, fats and carbohydrates. Consider the user's activity level and preferences.
     """)
-    advice = llm(prompt.format(**user_info))
+    try:
+        advice = llm.invoke(prompt.format(**user_info))
+    except Exception as e:
+        advice = f"An error occurred while generating advice: {e}"
     return advice
 
 
 def interactive_qa():
+    clear_screen()
     print("\nYou can now ask me any nutritional questions. Type 'menu' to return to the main menu, or 'quit' to exit.")
+
     while True:
-        user_question = input("Ask me anything about nutrition: ").strip()
+        user_question = input("\nAsk me anything about nutrition: ").strip()
         if user_question.lower() == 'menu':
             return  # Return to the main menu
         if user_question.lower() in ['quit', 'exit']:
             print("Goodbye!")
             exit()  # Exit the program
-        response = llm(user_question)
+        try:
+            response = llm.invoke(user_question)
+        except Exception as e:
+            response = f"An error occurred while fetching the response: {e}"
         print(response)
 
 
