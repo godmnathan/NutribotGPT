@@ -34,4 +34,4 @@ Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any improvements or suggestions.
 License
 
-This project is licensed under the Non-License License. See the LICENSE file for details.
+This project is licensed under The Unlicense License. See the LICENSE file for details.
