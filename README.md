@@ -12,17 +12,17 @@ Error Handling: Robust input validation and error handling to ensure accurate an
 
 <strong>How It Works</strong>
 
-    Collect User Information: The chatbot collects essential user details such as age, gender, weight, height, activity level, dietary preferences, and allergies.
-    Generate Advice: Based on the provided information, the chatbot generates personalized nutritional advice using the OpenAI language model.
-    Interactive Questions: Users can ask additional questions about nutrition, and the chatbot will provide relevant answers.
+Collect User Information: The chatbot collects essential user details such as age, gender, weight, height, activity level, dietary preferences, and allergies.
+Generate Advice: Based on the provided information, the chatbot generates personalized nutritional advice using the OpenAI language model.
+Interactive Questions: Users can ask additional questions about nutrition, and the chatbot will provide relevant answers.
 
-<strong>Getting Started</strong>
+<strong>Getting Started</strong><br>
 Prerequisites:
 
     Python 3.6 or higher
     OpenAI API key
 
-<strong>Usage</strong>
+<strong>Usage</strong><br>
 Run the chatbot:
 
     Nutribot.exe
