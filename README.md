@@ -25,7 +25,7 @@ Prerequisites:
 <strong>Usage</strong><br>
 Run the chatbot:
 
-    Nutribot.exe
+    Dist/nutribot.exe
 
 Follow the on-screen prompts to input your information and receive personalized nutritional advice or ask questions.
 
