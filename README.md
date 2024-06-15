@@ -5,16 +5,16 @@ The Nutritional Advisor Chatbot is an interactive, AI-powered tool designed to p
 
 <strong>Features</strong>
 
-Personalized Nutritional Advice: Generates comprehensive nutritional advice including meal suggestions, snack options, hydration tips, and recommended daily intake of calories, proteins, fats, and carbohydrates.
-<br>Interactive Q&A: Users can ask any nutrition-related questions and receive informative responses.
-<br>User-Friendly Interface: Simple and intuitive command-line interface for easy interaction.
-<br>Error Handling: Robust input validation and error handling to ensure accurate and meaningful advice.
+<strong>Personalized Nutritional Advice:</strong> Generates comprehensive nutritional advice including meal suggestions, snack options, hydration tips, and recommended daily intake of calories, proteins, fats, and carbohydrates.
+<br><strong>Interactive Q&A:</strong> Users can ask any nutrition-related questions and receive informative responses.
+<br><strong>User-Friendly Interface:</strong> Simple and intuitive command-line interface for easy interaction.
+<br><strong>Error Handling:</strong> Robust input validation and error handling to ensure accurate and meaningful advice.
 
 <strong>How It Works</strong>
 
-Collect User Information: The chatbot collects essential user details such as age, gender, weight, height, activity level, dietary preferences, and allergies.
-<br>Generate Advice: Based on the provided information, the chatbot generates personalized nutritional advice using the OpenAI language model.
-<br>Interactive Questions: Users can ask additional questions about nutrition, and the chatbot will provide relevant answers.
+<strong>Collect User Information:</strong> The chatbot collects essential user details such as age, gender, weight, height, activity level, dietary preferences, and allergies.
+<br><strong>Generate Advice:</strong> Based on the provided information, the chatbot generates personalized nutritional advice using the OpenAI language model.
+<br><strong>Interactive Questions:</strong> Users can ask additional questions about nutrition, and the chatbot will provide relevant answers.
 
 <strong>Getting Started</strong><br>
 Prerequisites:
