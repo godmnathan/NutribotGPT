@@ -1,7 +1,7 @@
 # Nutritional Advisor Chatbot
 <strong>Overview</strong>
 
-The Nutritional Advisor Chatbot is an interactive, AI-powered tool designed to provide personalized nutritional advice and answer nutrition-related questions. Utilizing the OpenAI language model, this chatbot helps users make informed dietary choices based on their individual information, such as age, gender, weight, height, activity level, dietary preferences, and allergies.
+    The Nutritional Advisor Chatbot is an interactive, AI-powered tool designed to provide personalized nutritional advice and answer nutrition-related questions. Utilizing the         OpenAI language model, this chatbot helps users make informed dietary choices based on their individual information, such as age, gender, weight, height, activity level,            dietary preferences, and allergies.
 
 <strong>Features</strong>
 
